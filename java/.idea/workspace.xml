@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34b78901-b538-4b10-8a70-b202ce2ce435" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>String</find>
+    </findStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectId" id="1WAbd4U0SDzDod46Qy5IJ2xreKq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Challenge7" />
+      <recent name="StairSteppingPermutations" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="StairSteppingPermutations" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StringDecoderTest">
+    <configuration name="Challenge1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Challenge1" />
+      <module name="DailyCodingChallenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenge2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Challenge2" />
+      <module name="DailyCodingChallenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenge4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Challenge4.Challenge4" />
+      <module name="DailyCodingChallenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllButOneIterableSetTests" type="JUnit" factoryName="JUnit">
+      <module name="DailyCodingChallenges" />
+      <option name="PACKAGE_NAME" value="StairSteppingPermutations" />
+      <option name="MAIN_CLASS_NAME" value="StairSteppingPermutations.AllButOneIterableSetTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StairSteppingPermutationsTests" type="JUnit" factoryName="JUnit">
+      <module name="DailyCodingChallenges" />
+      <option name="PACKAGE_NAME" value="StairSteppingPermutations" />
+      <option name="MAIN_CLASS_NAME" value="StairSteppingPermutations.StairSteppingPermutationsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDecoderTest" type="JUnit" factoryName="JUnit">
+      <module name="DailyCodingChallenges" />
+      <option name="PACKAGE_NAME" value="Challenge7" />
+      <option name="MAIN_CLASS_NAME" value="Challenge7.StringDecoderTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Challenge2" />
+      <item itemvalue="Application.Challenge4" />
+      <item itemvalue="Application.Challenge1" />
+      <item itemvalue="JUnit.StairSteppingPermutationsTests" />
+      <item itemvalue="JUnit.AllButOneIterableSetTests" />
+      <item itemvalue="JUnit.StringDecoderTest" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34b78901-b538-4b10-8a70-b202ce2ce435" name="Default Changelist" comment="" />
+      <created>1572288495760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572288495760</updated>
+      <workItem from="1572288498795" duration="3718000" />
+      <workItem from="1572390336947" duration="27000" />
+      <workItem from="1572406359339" duration="11919000" />
+      <workItem from="1572465421533" duration="243000" />
+      <workItem from="1572466396488" duration="61000" />
+      <workItem from="1572549147805" duration="11739000" />
+      <workItem from="1572791970640" duration="8609000" />
+      <workItem from="1572986802846" duration="853000" />
+      <workItem from="1573152344216" duration="1527000" />
+      <workItem from="1573255618321" duration="465000" />
+      <workItem from="1573273516011" duration="3884000" />
+      <workItem from="1577123345645" duration="2749000" />
+      <workItem from="1578595435447" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StringDecoderTest - 2019.11.04 at 11h 53m 10s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 11h 53m 13s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 11h 54m 02s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 11h 55m 06s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 11h 56m 40s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 11h 57m 48s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 12h 00m 24s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 12h 02m 09s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 12h 12m 31s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDecoderTest - 2019.11.04 at 12h 15m 06s.xml">
+      <configuration name="StringDecoderTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1578595436372">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="397" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.816/-1920.23.1920.1057@0.23.1440.816" timestamp="1578595436372" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DailyCodingChallenges</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
